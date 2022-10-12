@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/qingxiangguo/qingxiangguo/blob/e964867ee08da79d2450166ef8bcb4645781727a/content/Python-logo-notext.svg.png)]([your GitHub link](https://github.com/qingxiangguo)
 ## Hi, this is Qingxiang (Allen) Guo, Ph.D. in Bioinformatics 👋
 
 <h3 align="central">Connect with me:</h3>
@@ -14,4 +15,3 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qingxiangguo)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qingxiangguo)](https://github.com/anuraghazra/github-readme-stats)
