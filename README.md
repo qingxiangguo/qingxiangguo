@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/qingxiangguo/qingxiangguo/blob/e964867ee08da79d2450166ef8bcb4645781727a/content/Python-logo-notext.svg.png)](https://github.com/qingxiangguo)
-<p align="center">## Hi, this is Qingxiang (Allen) Guo, Ph.D. in Bioinformatics 👋
+<p align="center"> <b>Hi, this is Qingxiang (Allen) Guo, Ph.D. in Bioinformatics</b> 👋
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
