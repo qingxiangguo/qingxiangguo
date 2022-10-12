@@ -1,4 +1,4 @@
-                                   ## Hi, this is Qingxiang (Allen) Guo, Ph.D. in Bioinformatics 👋
+## Hi, this is Qingxiang (Allen) Guo, Ph.D. in Bioinformatics 👋
 
 <h3 align="central">Connect with me:</h3>
 <p align="left">
@@ -13,3 +13,5 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qingxiangguo&show_icons=true&theme=tokyonight)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qingxiangguo)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qingxiangguo)](https://github.com/anuraghazra/github-readme-stats)
