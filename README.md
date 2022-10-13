@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/qingxiangguo/qingxiangguo/blob/e964867ee08da79d2450166ef8bcb4645781727a/content/Python-logo-notext.svg.png)](https://github.com/qingxiangguo)
+[![MasterHead](https://github.com/qingxiangguo/qingxiangguo/blob/3b45ecdfdb3bcbf21ffb6d4fc2c80f8e24ae08b3/content/field_of_fire_by_maxbeechcreative-dbipet8.jpg)](https://github.com/qingxiangguo)
 <p align="center"> <b>Hi, this is Qingxiang (Allen) Guo, Ph.D. in Bioinformatics</b> 👋
 
 <h3 align="center">Connect with me:</h3>
