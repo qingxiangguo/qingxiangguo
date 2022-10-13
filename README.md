@@ -1,6 +1,7 @@
 [![MasterHead](https://github.com/qingxiangguo/qingxiangguo/blob/3b45ecdfdb3bcbf21ffb6d4fc2c80f8e24ae08b3/content/field_of_fire_by_maxbeechcreative-dbipet8.jpg)](https://github.com/qingxiangguo)
 <p align="center"> <b>Hi, this is Qingxiang (Allen) Guo, Ph.D. in Bioinformatics</b> 👋
-  
+<img src="https://github.com/qingxiangguo/qingxiangguo/blob/1537f8309cd5384a2ee825e856abe45de03b32fa/content/text.gif" width=200 height=360 />
+
 <p align="center"> <b> About myself </b>
 
 I received my Ph.D. in Bioinformatics at Huazhong Agricultural University, China in Jun 2021, and have visited the Bartholomew Lab, Department of Microbiology at Oregon State University in 2014. My research background is in multi-omic insights (genomics, transcriptomics, and proteomics) into the early animal genome evolution and genetic basis of their phenotypic adaptation. And I am very interested in developing multimodal pipelines to discover fundamental principles that control phenotype.
