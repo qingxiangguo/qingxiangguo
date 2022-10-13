@@ -2,7 +2,8 @@
 <p align="center"> <b>Hi, this is Qingxiang (Allen) Guo, Ph.D. in Bioinformatics</b> 👋
   
 <p align="left"> <b> About myself </b>
-I received my Ph.D. in Bioinformatics at Huazhong Agricultural University in Jun 2021, and have visited the Bartholomew Lab, Department of Microbiology at Oregon State University in 2014. My research background is in multi-omic insights (genomics, transcriptomics, and proteomics) into the early animal genome evolution and genetic basis of their phenotypic adaptation. And I am very interested in developing multimodal pipelines to discover fundamental principles that control phenotype.
+
+I received my Ph.D. in Bioinformatics at Huazhong Agricultural University, China in Jun 2021, and have visited the Bartholomew Lab, Department of Microbiology at Oregon State University in 2014. My research background is in multi-omic insights (genomics, transcriptomics, and proteomics) into the early animal genome evolution and genetic basis of their phenotypic adaptation. And I am very interested in developing multimodal pipelines to discover fundamental principles that control phenotype.
 
 During my PhD, I investigated the evolutionary genomics of the myxozoans, micro-meter sized parasitic cnidarians, and found a new model of parasite evolution – mosaic evolution (BMC Biology, 2022). I developed a customized comprehensive proteomic reference database (CCPRD) pipeline, which has greatly improved the efficiency and accuracy of proteomic research in non-model organisms. I also applied proteomics, algorithm development, and quantitative genetic analysis to demonstrate that nematocysts may be a key determinant of the adaptive success of cnidarians. I also modelled the relationship between the evolutionary mode of cnidarians and palaeo-environmental change and found that the diversification of cnidarians is predominantly uncoupled from palaeoclimate.
 
