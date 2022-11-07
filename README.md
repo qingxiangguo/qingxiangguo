@@ -11,7 +11,7 @@ During my PhD, I investigated the evolutionary genomics of the myxozoans, micro-
 
 I have authored and co-authored 20 peer-reviewed publications on various biology journals, like BMC Biology, Biology, Journal of Experimental Biology, and Parasites & Vectors (seven papers are first author and one more in preparation).
 
-My career goal is to become an independent academic research investigator. I see these projects as the starting point for my long-term research goal of expanding the field of using multi-omics approaches to broader species beyond my previous focus on parasitic cnidarians. My future research interests include a study of the cancer genomcis: <b>the mutant driven mechanism and the immunotherapy of prostate cancer</b>. I am doing these interesting projects as a postdoc at Yang lab, Feinberg School of Medcine, Northwestern university.
+My career goal is to become an independent academic research investigator. I see these projects as the starting point for my long-term research goal of expanding the field of using multi-omics approaches to broader species beyond my previous focus on parasitic cnidarians. My future research interests include a study of the cancer genomics: <b>the mutant driven mechanism and the immunotherapy of prostate cancer</b>. I am doing these interesting projects as a postdoc at Yang lab, Feinberg School of Medcine, Northwestern university.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
