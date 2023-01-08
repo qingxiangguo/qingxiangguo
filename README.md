@@ -22,7 +22,10 @@ My career goal is to become an independent academic research investigator. I see
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/qingxiangguo/qingxiangguo/blob/6bc194f522e7f2a7e9e2388391122ac84e9202f7/content/Linux-Logo.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/qingxiangguo/qingxiangguo/blob/6bc194f522e7f2a7e9e2388391122ac84e9202f7/content/Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/qingxiangguo/qingxiangguo/blob/6bc194f522e7f2a7e9e2388391122ac84e9202f7/content/Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank"> <img src="https://github.com/qingxiangguo/qingxiangguo/blob/118b1e76286d770b30ed2265bd04185ffce82808/content/perl-programming-language-logo-png-transparent.png" alt="perl" width="40" height="40"/> </a>
   
-                   
+<h3 align="center">Useful links:</h3>
+<p align="center">
+<a href="https://yangyangli.top/" target="blank"><img align="center" src="content/link-closed-flat.png" alt="Yangyang Li's website" height="30" width="40" /> Yangyang Li's website</a>   <a href="https://databeauty.com/blog/" target="blank"><img align="center" src="content/tingyouwang.jpeg" alt="Tingyou Wang's Blog" height="30" width="40" /> Tingyou Wang's Blog</a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qingxiangguo&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qingxiangguo)](https://github.com/anuraghazra/github-readme-stats)
 
