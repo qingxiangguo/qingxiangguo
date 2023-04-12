@@ -13,11 +13,13 @@ I have authored and co-authored 20 peer-reviewed publications on various biology
 
 My career goal is to become an independent academic research investigator. I see these projects as the starting point for my long-term research goal of expanding the field of using multi-omics approaches to broader species beyond my previous focus on parasitic cnidarians. My future research interests include a study of the cancer genomics: <b>the structural variantions of cancer genome and single cell omics</b>. I am doing these interesting projects as a postdoc at Yang lab, Feinberg School of Medcine, Northwestern university.
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/dist/github-snake.svg">
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake.svg">
-</picture>
+ </picture>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
