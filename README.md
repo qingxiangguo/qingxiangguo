@@ -12,12 +12,6 @@ During my PhD, I investigated the evolutionary genomics of the myxozoans, micro-
 I have authored and co-authored 20 peer-reviewed publications on various biology journals, like BMC Biology, Biology, Journal of Experimental Biology, and Parasites & Vectors (seven papers are first author and one more in preparation).
 
 My career goal is to become an independent academic research investigator. I see these projects as the starting point for my long-term research goal of expanding the field of using multi-omics approaches to broader species beyond my previous focus on parasitic cnidarians. My future research interests include a study of the cancer genomics: <b>the structural variantions of cancer genome and single cell omics</b>. I am doing these interesting projects as a postdoc at Yang lab, Feinberg School of Medcine, Northwestern university.
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake.svg">
-</picture>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -34,3 +28,10 @@ My career goal is to become an independent academic research investigator. I see
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qingxiangguo&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qingxiangguo)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake.svg">
+</picture>
+
