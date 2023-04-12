@@ -29,7 +29,7 @@ My career goal is to become an independent academic research investigator. I see
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qingxiangguo&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qingxiangguo)](https://github.com/anuraghazra/github-readme-stats)
   
-  - uses: Platane/snk@v2
+- uses: Platane/snk@v2
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
