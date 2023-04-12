@@ -2,6 +2,14 @@
 <p align="center"> <b>Hi, this is Qingxiang (Allen) Guo, Ph.D. in Bioinformatics</b> 👋
   
 <p align="center"><img src="https://github.com/qingxiangguo/qingxiangguo/blob/1537f8309cd5384a2ee825e856abe45de03b32fa/content/text.gif"/>
+  
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake.svg">
+ </picture>
+</p>
 
 <p align="center"> <b> About myself </b>
 
@@ -12,14 +20,6 @@ During my PhD, I investigated the evolutionary genomics of the myxozoans, micro-
 I have authored and co-authored 20 peer-reviewed publications on various biology journals, like BMC Biology, Biology, Journal of Experimental Biology, and Parasites & Vectors (seven papers are first author and one more in preparation).
 
 My career goal is to become an independent academic research investigator. I see these projects as the starting point for my long-term research goal of expanding the field of using multi-omics approaches to broader species beyond my previous focus on parasitic cnidarians. My future research interests include a study of the cancer genomics: <b>the structural variantions of cancer genome and single cell omics</b>. I am doing these interesting projects as a postdoc at Yang lab, Feinberg School of Medcine, Northwestern university.
-  
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake.svg">
- </picture>
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
