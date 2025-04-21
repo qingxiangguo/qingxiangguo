@@ -2,6 +2,14 @@
 <p align="center"> <b>Hi, this is Qingxiang (Allen) Guo, Ph.D. in Bioinformatics</b> 👋
   
 <p align="center"><img src="https://github.com/qingxiangguo/qingxiangguo/blob/1537f8309cd5384a2ee825e856abe45de03b32fa/content/text.gif"/>
+  
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake.svg">
+ </picture>
+</p>
 
 <p align="center"> <b> About myself </b>
 
@@ -9,9 +17,13 @@ I received my Ph.D. in Bioinformatics at Huazhong Agricultural University, China
 
 During my PhD, I investigated the evolutionary genomics of the myxozoans, micro-meter sized parasitic cnidarians, and found a new model of parasite evolution – mosaic evolution (BMC Biology, 2022). I developed a customized comprehensive proteomic reference database (CCPRD) pipeline, which has greatly improved the efficiency and accuracy of proteomic research in non-model organisms. I also applied proteomics, algorithm development, and quantitative genetic analysis to demonstrate that nematocysts may be a key determinant of the adaptive success of cnidarians. I also modelled the relationship between the evolutionary mode of cnidarians and palaeo-environmental change and found that the diversification of cnidarians is predominantly uncoupled from palaeoclimate.
 
+<<<<<<< HEAD
 I have authored and co-authored 23 peer-reviewed publications on various biology journals, like BMC Biology, Biology, Journal of Experimental Biology, and Parasites & Vectors (seven papers are first author and three more in preparation).
+=======
+I have authored and co-authored 21 peer-reviewed publications on various biology journals, like BMC Biology, Biology, Journal of Experimental Biology, and Parasites & Vectors (seven papers are first author and one more in preparation).
+>>>>>>> 3ee5db98f5971ee37c1ac9a4d80c61a968db0741
 
-My career goal is to become an independent academic research investigator. I see these projects as the starting point for my long-term research goal of expanding the field of using multi-omics approaches to broader species beyond my previous focus on parasitic cnidarians. My future research interests include a study of the cancer genomics: <b>the mutant driven mechanism and the immunotherapy of prostate cancer</b>. I am doing these interesting projects as a postdoc at Yang lab, Feinberg School of Medcine, Northwestern university.
+My career goal is to become an independent academic research investigator. I see these projects as the starting point for my long-term research goal of expanding the field of using multi-omics approaches to broader species beyond my previous focus on parasitic cnidarians. My future research interests include a study of the cancer genomics: <b>the structural variantions of cancer genome and single cell omics</b>. I am doing these interesting projects as a postdoc at Yang lab, Feinberg School of Medcine, Northwestern university.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
