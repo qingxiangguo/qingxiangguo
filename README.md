@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/qingxiangguo/qingxiangguo/blob/3b45ecdfdb3bcbf21ffb6d4fc2c80f8e24ae08b3/content/field_of_fire_by_maxbeechcreative-dbipet8.jpg)](https://github.com/qingxiangguo)
+[![MasterHead](https://github.com/qingxiangguo/qingxiangguo/blob/main/content/new_banner.jpg)](https://github.com/qingxiangguo)
 <p align="center"> <b>Hi, this is Qingxiang (Allen) Guo, Ph.D. in Bioinformatics</b> 👋
   
 <p align="center"><img src="https://github.com/qingxiangguo/qingxiangguo/blob/1537f8309cd5384a2ee825e856abe45de03b32fa/content/text.gif"/>
@@ -13,13 +13,13 @@
 
 <p align="center"> <b> About myself </b>
 
-I received my Ph.D. in Bioinformatics at Huazhong Agricultural University, China in Jun 2021, and have the precious chance to visit Bartholomew Lab, Department of Microbiology at Oregon State University in 2014. My research background is in multi-omic insights (genomics, transcriptomics, and proteomics) into the early animal genome evolution and genetic basis of their phenotypic adaptation. And I am very interested in developing multimodal pipelines to discover fundamental principles that control phenotype.
+I received my Ph.D. in Bioinformatics at Huazhong Agricultural University, China in Jun 2021. With the generous guidance of Prof. Jerri Bartholomew, that experience sparked my lasting interest in host-parasite interactions and evolutionary genomics. My research background is in multi-omic insights (genomics, transcriptomics, and proteomics) into the early animal genome evolution and genetic basis of their phenotypic adaptation. And I am very interested in developing multimodal pipelines to discover fundamental principles that control phenotype.
 
 During my PhD, I investigated the evolutionary genomics of the myxozoans, micro-meter sized parasitic cnidarians, and found a new model of parasite evolution – mosaic evolution (BMC Biology, 2022). I developed a customized comprehensive proteomic reference database (CCPRD) pipeline, which has greatly improved the efficiency and accuracy of proteomic research in non-model organisms. I also applied proteomics, algorithm development, and quantitative genetic analysis to demonstrate that nematocysts may be a key determinant of the adaptive success of cnidarians. I also modelled the relationship between the evolutionary mode of cnidarians and palaeo-environmental change and found that the diversification of cnidarians is predominantly uncoupled from palaeoclimate.
 
 I have authored and co-authored 23 peer-reviewed publications on various biology journals, like BMC Biology, Biology, Journal of Experimental Biology, and Parasites & Vectors (seven papers are first author and three more in preparation).
 
-My career goal is to become an independent academic research investigator. I see these projects as the starting point for my long-term research goal of expanding the field of using multi-omics approaches to broader species beyond my previous focus on parasitic cnidarians. My future research interests include a study of the cancer genomics: <b>the structural variantions of cancer genome and single cell omics</b>. I am doing these interesting projects as a postdoc at Yang lab, Feinberg School of Medcine, Northwestern university.
+My long-term goal is to become an independent academic researcher advancing the use of <b>multi-omics and AI-driven</b> methods in biomedical genomics. While my Ph.D. work focused on parasitic cnidarians, my current research as a postdoctoral fellow in Dr. Rendong Yang’s lab at the Feinberg School of Medicine, Northwestern University, centers on the structural variations of cancer genomes and single-cell omics. I develop long-read and deep learning based tools to decode the regulatory complexity of cancer genomes, with the aim of enabling earlier detection, more precise target discovery, and personalized therapies - hoping that these approaches will help bridge the gap between genomic insights and practical tools for cancer diagnosis and treatment.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
