@@ -16,7 +16,7 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#research">Research Focus</a> •
-  <a href="#publications">Publications</a> •
+  <a href="#publications">Publications & Patents</a> •
   <a href="#tools">Tools & Skills</a> •
   <a href="#contact">Contact</a>
 </p>
@@ -72,7 +72,7 @@ My long-term goal is to become an independent academic researcher advancing the 
 
 <!-- Key Research Tools Developed -->
 <div align="center">
-  <h3>🛠️ Key Research Tools Developed</h3>
+  <h3>🛠️Research Tools</h3>
   <table>
     <tr>
       <td align="center"><b>OctopusV & TentacleSV</b><br><sub>Structural Variant Analysis</sub></td>
@@ -83,13 +83,12 @@ My long-term goal is to become an independent academic researcher advancing the 
       <td align="center">🧬</td>
       <td align="center">🤖</td>
       <td align="center">🎯</td>
-      <td align="center">🔬</td>
     </tr>
   </table>
 </div>
 
 ---
-## 📚 Publications <a name="publications"></a>
+## 📚 Publications & Patents <a name="publications"></a>
 
 ### First-author Publications (7)
 1. **Guo Q**, Atkinson SD, Xiao B, Zhai Y, Bartholomew JL, Gu Z. A myxozoan genome reveals mosaic evolution in a parasitic cnidarian. **BMC Biol.** 2022 Feb 18;20(1):51.
@@ -118,7 +117,12 @@ My long-term goal is to become an independent academic researcher advancing the 
 22. Jia L, Gu Z, Liu Y, **Guo Q**, Li D, Zhai Y. Preparation and characterization of polyclonal antibodies against *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **Journal of Huazhong Agricultural University.** 2015;(6):113-118. (In Chinese with English abstract)
 23. Zhang JY, Gu ZM, Kalavati C, Costa Eiras J, Liu Y, **Guo Q**, Molnár K. Synopsis of the species of *Thelohanellus* Kudo, 1933 (Myxozoa: Myxosporea: Bivalvulida). **Syst Parasitol.** 2013 Nov;86(3):235-56.
 
-**Total: 23 peer-reviewed publications (7 first-authored, 16 co-authored)**
+### Patents (5)
+24. Gu Z, **Guo Q**, Zhai Y, Liu Y. A method to isolate and purify the nematocyst of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent Application No. CN110055181B.** 2022.
+25. Gu Z, **Guo Q**, Zhai Y, Liu Y. A method to isolate and purify the shell valves of *Myxobolus wulii* (Myxosporea: Bivalvulida). **China Patent Application No. ZL CN110004104B.** 2022.
+26. Gu Z, Li D, Liu Y, **Guo Q**. A PCR method for simultaneous detection of multiple myxozoans in allogynogenetic gibel carp *Carassius auratus gibelio*. **China Patent No. ZL201610051386.8.** 2019.
+27. Gu Z, Jia L, Liu Y, Zhai Y, Yuan J, Qin J, Li D, **Guo Q**. Preparation and application of polyclonal antibodies against the shell valves of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent No. CN103755806B.** 2016.
+28. Gu Z, Jia L, Liu Y, Zhai Y, Yuan J, Qin J, Li D, **Guo Q**. Preparation and application of polyclonal antibodies against the polar filaments of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent No. CN103880954B.** 2015.
 
 ---
 
