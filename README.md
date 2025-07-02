@@ -28,7 +28,14 @@ My long-term goal is to become an independent academic researcher advancing the 
 <a href="qingxiang.guo@northwestern.edn" target="blank"><img align="center" src="https://github.com/qingxiangguo/qingxiangguo/blob/8a2b4d8806191a6f886a26b1dccae1dc795d9a5f/content/email-western-libraries-12.png" alt="" height="30" width="40" /></a>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/qingxiangguo/qingxiangguo/blob/6bc194f522e7f2a7e9e2388391122ac84e9202f7/content/Linux-Logo.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/qingxiangguo/qingxiangguo/blob/6bc194f522e7f2a7e9e2388391122ac84e9202f7/content/Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/qingxiangguo/qingxiangguo/blob/6bc194f522e7f2a7e9e2388391122ac84e9202f7/content/Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank"> <img src="https://github.com/qingxiangguo/qingxiangguo/blob/118b1e76286d770b30ed2265bd04185ffce82808/content/perl-programming-language-logo-png-transparent.png" alt="perl" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
   
 <h3 align="center">Useful links:</h3>
 <p align="center">
@@ -36,4 +43,8 @@ My long-term goal is to become an independent academic researcher advancing the 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qingxiangguo&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qingxiangguo)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/qingxiangguo/count.svg" alt="Visitor Count" />
+</p
 
