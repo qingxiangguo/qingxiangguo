@@ -1,7 +1,7 @@
-[![MasterHead](https://github.com/qingxiangguo/qingxiangguo/blob/main/content/new_banner.jpg)](https://github.com/qingxiangguo)
+[![MasterHead](https://github.com/qingxiangguo/qingxiangguo/blob/a1c38b48b522a0e7c445d8f77a6946bbe93237d7/content/new_banner.png)](https://github.com/qingxiangguo)
 <p align="center"> <b>Hi, this is Qingxiang (Allen) Guo, Ph.D. in Bioinformatics</b> 👋
   
-<p align="center"><img src="https://github.com/qingxiangguo/qingxiangguo/blob/1537f8309cd5384a2ee825e856abe45de03b32fa/content/text.gif"/>
+<p align="center"><img src="https://github.com/qingxiangguo/qingxiangguo/blob/a1c38b48b522a0e7c445d8f77a6946bbe93237d7/content/text.gif"/>
   
 <p align="center">
   <picture>
