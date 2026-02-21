@@ -91,7 +91,7 @@ My long-term goal is to become an independent academic investigator advancing th
 ---
 ## 📚 Publications & Patents <a name="publications"></a>
 
-### First-author Publications (7)
+### First-author Publications (8)
 1. **Guo Q**, Li Y, Wang TY, Ramakrishnan A, Yang R. OctopuSV and TentacleSV: a one-stop toolkit for multi-sample, cross-platform structural variant comparison and analysis. **Bioinformatics.** 2025;41(11):btaf599.
 2. **Guo Q**, Atkinson SD, Xiao B, Zhai Y, Bartholomew JL, Gu Z. A myxozoan genome reveals mosaic evolution in a parasitic cnidarian. **BMC Biol.** 2022 Feb 18;20(1):51.
 3. **Guo Q**, Whipps CM, Zhai Y, Li D, Gu Z. Quantitative insights into the contribution of nematocysts to the adaptive success of cnidarians based on proteomic analysis. **Biology (Basel).** 2022 Jan 7;11(1).
@@ -101,7 +101,7 @@ My long-term goal is to become an independent academic investigator advancing th
 7. **Guo Q**, Zhai Y, Gu Z, Liu Y. Histopathological and ultrastructural studies of *Myxobolus turpisrotundus* from allogynogenetic gibel carp *Carassius auratus gibelio* in China. **Folia Parasitol (Praha).** 2016 Oct 14;63.
 8. **Guo Q**, Jia L, Qin J, Li H, Gu Z. Myxozoans and our dinner table: pathogenicity studies of *Myxobolus honghuensis* (Myxosporea: Bivalvulida) using a suckling mice model. **Foodborne Pathog Dis.** 2015 Aug;12(8):653-60.
 
-### Co-authored Publications (16)
+### Co-authored Publications (17)
 9. Li Y, Wang TY, **Guo Q**, Ren Y, Lu X, Cao Q, Yang R. Genomic language model mitigates chimera artifacts in nanopore direct RNA sequencing. **Nature Communications.** 2026;17:1864.
 10. Yang Y, Wang TY, Li Q, Lu J, Ren Y, Weiner AB, Fry J, Liu Q, Yum C, Wang R, **Guo Q**, Wan Y, Zhe J, Dong X, Lotan TL, Schaeffer EM, Yang R, Cao Q. Androgen receptor–regulated lncRNA PRCAT71 promotes AR signaling through the interaction with KHSRP in prostate cancer. **Sci Adv.** 2025 Apr;11(15):eadk6989.
 
