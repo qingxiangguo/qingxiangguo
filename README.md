@@ -68,7 +68,7 @@ My long-term goal is to become an independent academic investigator advancing th
   <img src="https://img.shields.io/badge/Publications-25+-brightgreen?style=for-the-badge&logo=googlescholar"/>
   <img src="https://img.shields.io/badge/Citations-300+-blue?style=for-the-badge&logo=semanticscholar"/>
   <img src="https://img.shields.io/badge/Patents-5-orange?style=for-the-badge&logo=patent"/>
-  <img src="https://img.shields.io/badge/First_Author-7-purple?style=for-the-badge&logo=author"/>
+  <img src="https://img.shields.io/badge/First_Author-8-purple?style=for-the-badge&logo=author"/>
 </p>
 
 <!-- Key Research Tools Developed -->
