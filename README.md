@@ -178,11 +178,17 @@ My long-term goal is to become an independent academic investigator advancing th
 
 ## 📈 GitHub Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qingxiangguo&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qingxiangguo)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/qingxiangguo/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=qingxiangguo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qingxiangguo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Qingxiang Guo's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qingxiangguo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qingxiangguo&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub trophies" />
 </p>
 
 <!-- Professional Footer -->
