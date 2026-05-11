@@ -1,7 +1,5 @@
 [![MasterHead](https://github.com/qingxiangguo/qingxiangguo/blob/cf8fc020bf527309cc30e62bbc88d05a00a230bb/content/flower.png)](https://github.com/qingxiangguo)
 
-[![MasterHead](...flower.png)](https://github.com/qingxiangguo)
-
 <h1 align="center">Hi, I'm Qingxiang (Allen) Guo 👋</h1>
 
 <h3 align="center">
