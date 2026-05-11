@@ -1,7 +1,29 @@
 [![MasterHead](https://github.com/qingxiangguo/qingxiangguo/blob/cf8fc020bf527309cc30e62bbc88d05a00a230bb/content/flower.png)](https://github.com/qingxiangguo)
 
-<p align="center"> <b>Hi, this is Qingxiang (Allen) Guo, Ph.D. in Bioinformatics</b> 👋
-  
+[![MasterHead](...flower.png)](https://github.com/qingxiangguo)
+
+<h1 align="center">Hi, I'm Qingxiang (Allen) Guo 👋</h1>
+
+<h3 align="center">
+  Computational Biologist · Long-read Sequencing Developer · AI for Cancer Genomics
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Postdoctoral+Fellow+at+Northwestern+University;Building+bioinformatics+tools+for+long-read+sequencing;AI+%C3%97+Cancer+Genomics+%C3%97+Structural+Variants;Developer+of+OctopuSV+and+DirectClean" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/qingxiangguo">
+    <img src="https://img.shields.io/badge/GitHub-qingxiangguo-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/guoqx">
+    <img src="https://img.shields.io/badge/LinkedIn-Qingxiang%20Guo-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:qingxiang.guo@northwestern.edu">
+    <img src="https://img.shields.io/badge/Email-Northwestern-4E2A84?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
 <p align="center"><img src="https://github.com/qingxiangguo/qingxiangguo/blob/a1c38b48b522a0e7c445d8f77a6946bbe93237d7/content/text.gif"/>
   
 <p align="center">
