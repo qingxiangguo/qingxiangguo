@@ -183,8 +183,17 @@ My long-term goal is to become an independent academic investigator advancing th
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qingxiangguo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Qingxiang Guo's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qingxiangguo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qingxiangguo&theme=tokyonight" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qingxiangguo&theme=tokyonight" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qingxiangguo&theme=tokyonight" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qingxiangguo&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qingxiangguo&theme=tokyonight&utcOffset=-5" alt="Productive time" />
 </p>
 
 <p align="center">
