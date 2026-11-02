@@ -22,8 +22,8 @@
   </a>
 </p>
 
-<p align="center"><img src="https://github.com/qingxiangguo/qingxiangguo/blob/a1c38b48b522a0e7c445d8f77a6946bbe93237d7/content/text.gif"/>
-  
+<p align="center"><img src="https://github.com/qingxiangguo/qingxiangguo/blob/a1c38b48b522a0e7c445d8f77a6946bbe93237d7/content/text.gif"/></p>
+
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingxiangguo/qingxiangguo/output/github-contribution-grid-snake-dark.svg">
@@ -37,7 +37,7 @@
   <a href="#about">About</a> •
   <a href="#research">Research Focus</a> •
   <a href="#publications">Publications & Patents</a> •
-  <a href="#tools">Tools & Skills</a> •
+  <a href="#tools">Computational Tools</a> •
   <a href="#contact">Contact</a>
 </p>
 
@@ -46,15 +46,13 @@
 <p align="center"><b>About me</b></p>
 <a name="about"></a>
 
-## About me
-
 I am a computational biologist and postdoctoral fellow in Dr. Rendong Yang’s lab at Northwestern University Feinberg School of Medicine. My research focuses on developing computational methods and machine-learning approaches for cancer genomics and transcriptomics, with a particular interest in long-read sequencing. I use technologies such as Oxford Nanopore sequencing to study structural variants, transcriptomic alterations, and other complex molecular events that are difficult to resolve with conventional approaches.
 
-Much of my work is driven by practical problems that emerge from real genomic data. I am the lead developer of **OctopuSV** (*Bioinformatics*), an automated toolkit for multi-sample structural variant analysis. I have also contributed to **DeepChopper**, a genomic language model published in *Nature Communications* for identifying chimeric artifacts in nanopore direct RNA sequencing, and **ScanNeo2** (*Bioinformatics*), a workflow for neoantigen detection. My broader work spans long-read DNA and RNA sequencing, cancer immunogenomics, regulatory genomics, and multi-omic analysis.
+Much of my work is driven by practical problems that emerge from real genomic data. I am the lead developer of **DirectClean** (*NAR Genomics and Bioinformatics*), a tool for artifact-aware preprocessing and read rescue in nanopore direct-cDNA sequencing, and **OctopuSV and TentacleSV** (*Bioinformatics*), a toolkit for multi-sample structural variant analysis. I have also contributed to **DeepChopper**, a genomic language model published in *Nature Communications* for identifying chimeric artifacts in nanopore direct RNA sequencing, and **ScanNeo2** (*Bioinformatics*), a workflow for neoantigen detection. My broader work spans long-read DNA and RNA sequencing, cancer immunogenomics, regulatory genomics, and multi-omic analysis.
 
 My early academic training gave me a foundation in algorithm development, comparative genomics, and multi-omic data analysis. My scientific perspective was further shaped by my time at Oregon State University in 2014, where Prof. Jerri Bartholomew’s mentorship strengthened my interest in genomics, evolution, and data-driven biological discovery.
 
-To date, I have authored or co-authored **26 peer-reviewed publications**, including **eight first-author papers**, with work published in *Nature Communications*, *Science Advances*, *Bioinformatics*, *BMC Biology*, and other journals.
+To date, I have authored or co-authored **26 peer-reviewed publications**, including **nine first-author papers**, with work published in *Nature Communications*, *Science Advances*, *Bioinformatics*, *BMC Biology*, and other journals.
 
 I am especially interested in the intersection of **AI, long-read sequencing, and biomedical genomics**. My long-term goal is to develop computational approaches that make complex genomic and transcriptomic events easier to resolve, interpret, and connect to cancer biology, while building toward an independent research program in this area.
 
@@ -89,25 +87,23 @@ I am especially interested in the intersection of **AI, long-read sequencing, an
 
 <!-- Research Metrics -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Publications-25+-brightgreen?style=for-the-badge&logo=googlescholar"/>
-  <img src="https://img.shields.io/badge/Citations-300+-blue?style=for-the-badge&logo=semanticscholar"/>
+  <img src="https://img.shields.io/badge/Publications-26-brightgreen?style=for-the-badge&logo=googlescholar"/>
+  <img src="https://img.shields.io/badge/Citations-400%2B-blue?style=for-the-badge&logo=semanticscholar"/>
   <img src="https://img.shields.io/badge/Patents-5-orange?style=for-the-badge&logo=patent"/>
-  <img src="https://img.shields.io/badge/First_Author-8-purple?style=for-the-badge&logo=author"/>
+  <img src="https://img.shields.io/badge/First_Author-9-purple?style=for-the-badge&logo=author"/>
 </p>
 
 <!-- Key Research Tools Developed -->
 <div align="center">
-  <h3>🛠️Research Tools</h3>
+  <h3>🛠️ Research Tools</h3>
   <table>
     <tr>
-      <td align="center"><b>OctopusV & TentacleSV</b><br><sub>Structural Variant Analysis</sub></td>
-      <td align="center"><b>DeepChopper</b><br><sub>Genomic Language Model</sub></td>
-      <td align="center"><b>ScanNeo2</b><br><sub>Neoantigen Detection</sub></td>
+      <td align="center" width="50%">🧹 <a href="https://github.com/ylab-hi/DirectClean"><b>DirectClean</b></a><br><sub>Direct-cDNA Preprocessing & Read Rescue</sub></td>
+      <td align="center" width="50%">🧬 <a href="https://github.com/ylab-hi/OctopuSV"><b>OctopuSV</b></a> & <a href="https://github.com/ylab-hi/TentacleSV"><b>TentacleSV</b></a><br><sub>Structural Variant Analysis</sub></td>
     </tr>
     <tr>
-      <td align="center">🧬</td>
-      <td align="center">🤖</td>
-      <td align="center">🎯</td>
+      <td align="center">🤖 <a href="https://github.com/ylab-hi/DeepChopper"><b>DeepChopper</b></a><br><sub>Genomic Language Model</sub></td>
+      <td align="center">🎯 <a href="https://github.com/ylab-hi/ScanNeo2"><b>ScanNeo2</b></a><br><sub>Neoantigen Detection</sub></td>
     </tr>
   </table>
 </div>
@@ -115,56 +111,57 @@ I am especially interested in the intersection of **AI, long-read sequencing, an
 ---
 ## 📚 Publications & Patents <a name="publications"></a>
 
-### First-author Publications (8)
-1. **Guo Q**, Li Y, Wang TY, Ramakrishnan A, Yang R. OctopuSV and TentacleSV: a one-stop toolkit for multi-sample, cross-platform structural variant comparison and analysis. **Bioinformatics.** 2025;41(11):btaf599.
-2. **Guo Q**, Atkinson SD, Xiao B, Zhai Y, Bartholomew JL, Gu Z. A myxozoan genome reveals mosaic evolution in a parasitic cnidarian. **BMC Biol.** 2022 Feb 18;20(1):51.
-3. **Guo Q**, Whipps CM, Zhai Y, Li D, Gu Z. Quantitative insights into the contribution of nematocysts to the adaptive success of cnidarians based on proteomic analysis. **Biology (Basel).** 2022 Jan 7;11(1).
-4. **Guo Q**, Liu Y, Zhai Y, Gu Z. A fast and effective method for dissecting parasitic spores: myxozoans as an example. **J Exp Biol.** 2020 Jan 1;223(10):jeb214916.
-5. **Guo Q**, Li D, Zhai Y, Gu Z. CCPRD: A novel analytical framework for the comprehensive proteomic reference database construction of nonmodel organisms. **ACS Omega.** 2020 Jun 30;5(25):15370-15384.
-6. **Guo Q**, Huang M, Liu Y, Zhang X, Gu Z. Morphological plasticity in *Myxobolus* Bütschli, 1882: a taxonomic dilemma case and renaming of a parasite species of the common carp. **Parasit Vectors.** 2018 Jul 9;11(1):399.
-7. **Guo Q**, Zhai Y, Gu Z, Liu Y. Histopathological and ultrastructural studies of *Myxobolus turpisrotundus* from allogynogenetic gibel carp *Carassius auratus gibelio* in China. **Folia Parasitol (Praha).** 2016 Oct 14;63.
-8. **Guo Q**, Jia L, Qin J, Li H, Gu Z. Myxozoans and our dinner table: pathogenicity studies of *Myxobolus honghuensis* (Myxosporea: Bivalvulida) using a suckling mice model. **Foodborne Pathog Dis.** 2015 Aug;12(8):653-60.
+### First-author Publications (9)
+1. **Guo Q**, Li Y, Yang R. [DirectClean: artifact-aware preprocessing and read rescue for Oxford Nanopore direct-cDNA transcriptome sequencing](https://doi.org/10.1093/nargab/lqag132). **NAR Genomics and Bioinformatics.** 2026;8(4):lqag132. **Editor's Choice**.
+2. **Guo Q**, Li Y, Wang TY, Ramakrishnan A, Yang R. [OctopuSV and TentacleSV: a one-stop toolkit for multi-sample, cross-platform structural variant comparison and analysis](https://doi.org/10.1093/bioinformatics/btaf599). **Bioinformatics.** 2025;41(11):btaf599.
+3. **Guo Q**, Atkinson SD, Xiao B, Zhai Y, Bartholomew JL, Gu Z. A myxozoan genome reveals mosaic evolution in a parasitic cnidarian. **BMC Biol.** 2022 Feb 18;20(1):51.
+4. **Guo Q**, Whipps CM, Zhai Y, Li D, Gu Z. Quantitative insights into the contribution of nematocysts to the adaptive success of cnidarians based on proteomic analysis. **Biology (Basel).** 2022 Jan 7;11(1).
+5. **Guo Q**, Liu Y, Zhai Y, Gu Z. A fast and effective method for dissecting parasitic spores: myxozoans as an example. **J Exp Biol.** 2020 Jan 1;223(10):jeb214916.
+6. **Guo Q**, Li D, Zhai Y, Gu Z. CCPRD: A novel analytical framework for the comprehensive proteomic reference database construction of nonmodel organisms. **ACS Omega.** 2020 Jun 30;5(25):15370-15384.
+7. **Guo Q**, Huang M, Liu Y, Zhang X, Gu Z. Morphological plasticity in *Myxobolus* Bütschli, 1882: a taxonomic dilemma case and renaming of a parasite species of the common carp. **Parasit Vectors.** 2018 Jul 9;11(1):399.
+8. **Guo Q**, Zhai Y, Gu Z, Liu Y. Histopathological and ultrastructural studies of *Myxobolus turpisrotundus* from allogynogenetic gibel carp *Carassius auratus gibelio* in China. **Folia Parasitol (Praha).** 2016 Oct 14;63.
+9. **Guo Q**, Jia L, Qin J, Li H, Gu Z. Myxozoans and our dinner table: pathogenicity studies of *Myxobolus honghuensis* (Myxosporea: Bivalvulida) using a suckling mice model. **Foodborne Pathog Dis.** 2015 Aug;12(8):653-60.
 
 ### Co-authored Publications (17)
-9. Li Y, Wang TY, **Guo Q**, Ren Y, Lu X, Cao Q, Yang R. Genomic language model mitigates chimera artifacts in nanopore direct RNA sequencing. **Nature Communications.** 2026;17:1864.
-10. Yang Y, Wang TY, Li Q, Lu J, Ren Y, Weiner AB, Fry J, Liu Q, Yum C, Wang R, **Guo Q**, Wan Y, Zhe J, Dong X, Lotan TL, Schaeffer EM, Yang R, Cao Q. Androgen receptor–regulated lncRNA PRCAT71 promotes AR signaling through the interaction with KHSRP in prostate cancer. **Sci Adv.** 2025 Apr;11(15):eadk6989.
+10. Li Y, Wang TY, **Guo Q**, Ren Y, Lu X, Cao Q, Yang R. Genomic language model mitigates chimera artifacts in nanopore direct RNA sequencing. **Nature Communications.** 2026;17:1864.
+11. Yang Y, Wang TY, Li Q, Lu J, Ren Y, Weiner AB, Fry J, Liu Q, Yum C, Wang R, **Guo Q**, Wan Y, Zhe J, Dong X, Lotan TL, Schaeffer EM, Yang R, Cao Q. Androgen receptor–regulated lncRNA PRCAT71 promotes AR signaling through the interaction with KHSRP in prostate cancer. **Sci Adv.** 2025 Apr;11(15):eadk6989.
 
-11. Schäfer RA, **Guo Q**, Yang R. ScanNeo2: a comprehensive workflow for neoantigen detection and immunogenicity prediction from diverse genomic and transcriptomic alterations. **Bioinformatics.** 2023 Nov;39(11):btad659.
+12. Schäfer RA, **Guo Q**, Yang R. ScanNeo2: a comprehensive workflow for neoantigen detection and immunogenicity prediction from diverse genomic and transcriptomic alterations. **Bioinformatics.** 2023 Nov;39(11):btad659.
 
-12. Zhang B, **Guo Q**, Tu X, Gu Z. Identification of *Myxobolus distalisensis* n. sp. (Cnidaria: Myxozoa) infecting yellow catfish *Tachysurus fulvidraco* (Richardson), with a supplement description of *M. voremkhai* (Akhmerov, 1960) Landsberg and Lom, 1991. **Syst Parasitol.** 2023 Oct;100(5):473-485.
+13. Zhang B, **Guo Q**, Tu X, Gu Z. Identification of *Myxobolus distalisensis* n. sp. (Cnidaria: Myxozoa) infecting yellow catfish *Tachysurus fulvidraco* (Richardson), with a supplement description of *M. voremkhai* (Akhmerov, 1960) Landsberg and Lom, 1991. **Syst Parasitol.** 2023 Oct;100(5):473-485.
 
-13. Xiao B, **Guo Q**, Zhai Y, Gu Z. Transcriptomic insights into the diversity and evolution of Myxozoa (Cnidaria, Endocnidozoa) toxin-like proteins. **Mar Drugs.** 2022 Apr 26;20(5).
+14. Xiao B, **Guo Q**, Zhai Y, Gu Z. Transcriptomic insights into the diversity and evolution of Myxozoa (Cnidaria, Endocnidozoa) toxin-like proteins. **Mar Drugs.** 2022 Apr 26;20(5).
 
-14. Tahir UB, **Guo Q**, Gu Z. Fins infestation induced by *Myxobolus xiantaoensis* in yellow catfish *Tachysurus fulvidraco* Richardson, 1846: Some pathophysiological and molecular insights. **Microb Pathog.** 2021 Apr;153:104772.
+15. Tahir UB, **Guo Q**, Gu Z. Fins infestation induced by *Myxobolus xiantaoensis* in yellow catfish *Tachysurus fulvidraco* Richardson, 1846: Some pathophysiological and molecular insights. **Microb Pathog.** 2021 Apr;153:104772.
 
-15. Wang S, Zhang B, **Guo Q**, Zhai Y, Gu Z. Molecular and light microscopy evidence for the transfer of *Myxobolus honghuensis* from *Carassius auratus gibelio* broodfish to progeny. **J Fish Dis.** 2020 Oct;43(10):1177-1184.
+16. Wang S, Zhang B, **Guo Q**, Zhai Y, Gu Z. Molecular and light microscopy evidence for the transfer of *Myxobolus honghuensis* from *Carassius auratus gibelio* broodfish to progeny. **J Fish Dis.** 2020 Oct;43(10):1177-1184.
 
-16. Zhang X, Liu Y, Whipps CM, **Guo Q**, Gu Z. Multiple evolutionary routes of the single polar capsule in *Thelohanellus* species (Myxozoa; Myxobolidae). **Int J Parasitol Parasites Wildl.** 2019 Apr;8:56-62.
+17. Zhang X, Liu Y, Whipps CM, **Guo Q**, Gu Z. Multiple evolutionary routes of the single polar capsule in *Thelohanellus* species (Myxozoa; Myxobolidae). **Int J Parasitol Parasites Wildl.** 2019 Apr;8:56-62.
 
-17. Tahir UB, **Guo Q**, Zhao D, Liu Y, Gu Z. Description of *Myxobolus xiantaoensis* n. sp. from the fins of yellow catfish in China: a species previously attributed to *Myxobolus physophilus* Reuss, 1906 in Chinese records. **Parasitol Res.** 2019 Apr;118(4):1137-1146.
+18. Tahir UB, **Guo Q**, Zhao D, Liu Y, Gu Z. Description of *Myxobolus xiantaoensis* n. sp. from the fins of yellow catfish in China: a species previously attributed to *Myxobolus physophilus* Reuss, 1906 in Chinese records. **Parasitol Res.** 2019 Apr;118(4):1137-1146.
 
-18. Shao J, **Guo Q**, Hu R, Gu Z. Comparative genomic insights into the taxonomy of *Edwardsiella tarda* isolated from different hosts: marine, freshwater and migratory fish. **Aquaculture Research.** 2018 January;49(1):197-204.
+19. Shao J, **Guo Q**, Hu R, Gu Z. Comparative genomic insights into the taxonomy of *Edwardsiella tarda* isolated from different hosts: marine, freshwater and migratory fish. **Aquaculture Research.** 2018 January;49(1):197-204.
 
-19. Wang Z, Zhou T, **Guo Q**, Gu Z. Description of a new freshwater ciliate *Epistylis wuhanensis* n. sp. (Ciliophora, Peritrichia) from China, with a focus on phylogenetic relationships within family Epistylididae. **Journal of Eukaryotic Microbiology.** 2017;64(3):394-406.
+20. Wang Z, Zhou T, **Guo Q**, Gu Z. Description of a new freshwater ciliate *Epistylis wuhanensis* n. sp. (Ciliophora, Peritrichia) from China, with a focus on phylogenetic relationships within family Epistylididae. **Journal of Eukaryotic Microbiology.** 2017;64(3):394-406.
 
-20. Liu Y, **Guo Q**, Zhai Y, Gu Z. Effects of different preservation methods on morphology of *Myxobolus wulii* spores. **Journal of Huazhong Agricultural University.** 2016;(4):87-92. (In Chinese with English abstract)
+21. Liu Y, **Guo Q**, Zhai Y, Gu Z. Effects of different preservation methods on morphology of *Myxobolus wulii* spores. **Journal of Huazhong Agricultural University.** 2016;(4):87-92. (In Chinese with English abstract)
 
-21. Zhai Y, Gu Z, **Guo Q**, Wu Z, Wang H, Liu Y. New type of pathogenicity of *Thelohanellus kitauei* Egusa & Nakajima, 1981 infecting the skin of common carp *Cyprinus carpio* L. **Parasitol Int.** 2016 Feb;65(1):78-82.
+22. Zhai Y, Gu Z, **Guo Q**, Wu Z, Wang H, Liu Y. New type of pathogenicity of *Thelohanellus kitauei* Egusa & Nakajima, 1981 infecting the skin of common carp *Cyprinus carpio* L. **Parasitol Int.** 2016 Feb;65(1):78-82.
 
-22. Zhai Y, Whipps CM, Gu Z, **Guo Q**, Wu Z, Wang H, Liu Y. Intraspecific morphometric variation in myxosporeans. **Folia Parasitol (Praha).** 2016 Apr 1;63.
+23. Zhai Y, Whipps CM, Gu Z, **Guo Q**, Wu Z, Wang H, Liu Y. Intraspecific morphometric variation in myxosporeans. **Folia Parasitol (Praha).** 2016 Apr 1;63.
 
-23. Deng Q, **Guo Q**, Zhai Y, Wang Z, Gu Z. First record of *Chilodonella piscicola* (Ciliophora: Chilodonellidae) from two endangered fishes, *Schizothorax o'connori* and *Oxygymnocypris stewartii* in Tibet. **Parasitol Res.** 2015 Apr;114(8):3097-3103.
+24. Deng Q, **Guo Q**, Zhai Y, Wang Z, Gu Z. First record of *Chilodonella piscicola* (Ciliophora: Chilodonellidae) from two endangered fishes, *Schizothorax o'connori* and *Oxygymnocypris stewartii* in Tibet. **Parasitol Res.** 2015 Apr;114(8):3097-3103.
 
-24. Jia L, Gu Z, Liu Y, **Guo Q**, Li D, Zhai Y. Preparation and characterization of polyclonal antibodies against *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **Journal of Huazhong Agricultural University.** 2015;(6):113-118. (In Chinese with English abstract)
+25. Jia L, Gu Z, Liu Y, **Guo Q**, Li D, Zhai Y. Preparation and characterization of polyclonal antibodies against *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **Journal of Huazhong Agricultural University.** 2015;(6):113-118. (In Chinese with English abstract)
 
-25. Zhang JY, Gu ZM, Kalavati C, Costa Eiras J, Liu Y, **Guo Q**, Molnár K. Synopsis of the species of *Thelohanellus* Kudo, 1933 (Myxozoa: Myxosporea: Bivalvulida). **Syst Parasitol.** 2013 Nov;86(3):235-56.
+26. Zhang JY, Gu ZM, Kalavati C, Costa Eiras J, Liu Y, **Guo Q**, Molnár K. Synopsis of the species of *Thelohanellus* Kudo, 1933 (Myxozoa: Myxosporea: Bivalvulida). **Syst Parasitol.** 2013 Nov;86(3):235-56.
 
 ### Patents (5)
-26. Gu Z, **Guo Q**, Zhai Y, Liu Y. A method to isolate and purify the nematocyst of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent Application No. CN110055181B.** 2022.
-27. Gu Z, **Guo Q**, Zhai Y, Liu Y. A method to isolate and purify the shell valves of *Myxobolus wulii* (Myxosporea: Bivalvulida). **China Patent Application No. ZL CN110004104B.** 2022.
-28. Gu Z, Li D, Liu Y, **Guo Q**. A PCR method for simultaneous detection of multiple myxozoans in allogynogenetic gibel carp *Carassius auratus gibelio*. **China Patent No. ZL201610051386.8.** 2019.
-29. Gu Z, Jia L, Liu Y, Zhai Y, Yuan J, Qin J, Li D, **Guo Q**. Preparation and application of polyclonal antibodies against the shell valves of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent No. CN103755806B.** 2016.
-30. Gu Z, Jia L, Liu Y, Zhai Y, Yuan J, Qin J, Li D, **Guo Q**. Preparation and application of polyclonal antibodies against the polar filaments of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent No. CN103880954B.** 2015.
+27. Gu Z, **Guo Q**, Zhai Y, Liu Y. A method to isolate and purify the nematocyst of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent Application No. CN110055181B.** 2022.
+28. Gu Z, **Guo Q**, Zhai Y, Liu Y. A method to isolate and purify the shell valves of *Myxobolus wulii* (Myxosporea: Bivalvulida). **China Patent Application No. ZL CN110004104B.** 2022.
+29. Gu Z, Li D, Liu Y, **Guo Q**. A PCR method for simultaneous detection of multiple myxozoans in allogynogenetic gibel carp *Carassius auratus gibelio*. **China Patent No. ZL201610051386.8.** 2019.
+30. Gu Z, Jia L, Liu Y, Zhai Y, Yuan J, Qin J, Li D, **Guo Q**. Preparation and application of polyclonal antibodies against the shell valves of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent No. CN103755806B.** 2016.
+31. Gu Z, Jia L, Liu Y, Zhai Y, Yuan J, Qin J, Li D, **Guo Q**. Preparation and application of polyclonal antibodies against the polar filaments of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent No. CN103880954B.** 2015.
 
 ---
 
@@ -175,24 +172,30 @@ I am especially interested in the intersection of **AI, long-read sequencing, an
 <a href="mailto:qingxiang.guo@northwestern.edu" target="blank"><img align="center" src="https://github.com/qingxiangguo/qingxiangguo/blob/8a2b4d8806191a6f886a26b1dccae1dc795d9a5f/content/email-western-libraries-12.png" alt="" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3> <a name="tools"></a>
+<h3 align="center">Computational Tools & Technologies</h3> <a name="tools"></a>
+<p align="center"><sub><b>Programming & Development</b></sub></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 </p>
 
-<!-- Additional Technical Skills -->
+<p align="center"><sub><b>Sequencing & Genomics</b></sub></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Oxford_Nanopore-00A86B?style=for-the-badge&logo=molecule&logoColor=white" alt="ONT"/>
-  <img src="https://img.shields.io/badge/PacBio-1E88E5?style=for-the-badge&logo=dna&logoColor=white" alt="PacBio"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Oxford_Nanopore-00A86B?style=for-the-badge&logo=molecule&logoColor=white" alt="Oxford Nanopore" />
+  <img src="https://img.shields.io/badge/PacBio-1E88E5?style=for-the-badge&logo=dna&logoColor=white" alt="PacBio" />
 </p>
-  
+
+<p align="center"><sub><b>Computing & AI</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Apptainer-5B4B8A?style=for-the-badge" alt="Apptainer" />
+  <img src="https://img.shields.io/badge/SLURM%20%2F%20HPC-176B87?style=for-the-badge" alt="SLURM / HPC" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</p>
+
 <h3 align="center">Useful links:</h3>
 <p align="center">
 <a href="https://yangyangli.top/" target="blank"><img align="center" src="content/link-closed-flat.png" alt="Yangyang Li's website" height="30" width="40" /> Yangyang Li's website</a>   <a href="https://databeauty.com/blog/" target="blank"><img align="center" src="content/tingyouwang.jpeg" alt="Tingyou Wang's Blog" height="30" width="40" /> Tingyou Wang's Blog</a>
@@ -218,10 +221,6 @@ I am especially interested in the intersection of **AI, long-read sequencing, an
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qingxiangguo&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qingxiangguo&theme=tokyonight&utcOffset=-5" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qingxiangguo&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub trophies" />
 </p>
 
 <!-- Professional Footer -->
