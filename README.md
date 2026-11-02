@@ -52,7 +52,7 @@ Much of my work is driven by practical problems that emerge from real genomic da
 
 My early academic training gave me a foundation in algorithm development, comparative genomics, and multi-omic data analysis. My scientific perspective was further shaped by my time at Oregon State University in 2014, where Prof. Jerri Bartholomew’s mentorship strengthened my interest in genomics, evolution, and data-driven biological discovery.
 
-To date, I have authored or co-authored **26 peer-reviewed publications**, including **nine first-author papers**, with work published in *Nature Communications*, *Science Advances*, *Bioinformatics*, *BMC Biology*, and other journals.
+To date, I have authored or co-authored **27 peer-reviewed publications**, including **nine first-author papers**, with work published in *Nature Communications*, *Science Advances*, *Bioinformatics*, *BMC Biology*, and other journals.
 
 I am especially interested in the intersection of **AI, long-read sequencing, and biomedical genomics**. My long-term goal is to develop computational approaches that make complex genomic and transcriptomic events easier to resolve, interpret, and connect to cancer biology, while building toward an independent research program in this area.
 
@@ -122,46 +122,49 @@ I am especially interested in the intersection of **AI, long-read sequencing, an
 8. **Guo Q**, Zhai Y, Gu Z, Liu Y. Histopathological and ultrastructural studies of *Myxobolus turpisrotundus* from allogynogenetic gibel carp *Carassius auratus gibelio* in China. **Folia Parasitol (Praha).** 2016 Oct 14;63.
 9. **Guo Q**, Jia L, Qin J, Li H, Gu Z. Myxozoans and our dinner table: pathogenicity studies of *Myxobolus honghuensis* (Myxosporea: Bivalvulida) using a suckling mice model. **Foodborne Pathog Dis.** 2015 Aug;12(8):653-60.
 
-### Co-authored Publications (17)
-10. Li Y, Wang TY, **Guo Q**, Ren Y, Lu X, Cao Q, Yang R. Genomic language model mitigates chimera artifacts in nanopore direct RNA sequencing. **Nature Communications.** 2026;17:1864.
-11. Yang Y, Wang TY, Li Q, Lu J, Ren Y, Weiner AB, Fry J, Liu Q, Yum C, Wang R, **Guo Q**, Wan Y, Zhe J, Dong X, Lotan TL, Schaeffer EM, Yang R, Cao Q. Androgen receptor–regulated lncRNA PRCAT71 promotes AR signaling through the interaction with KHSRP in prostate cancer. **Sci Adv.** 2025 Apr;11(15):eadk6989.
+### Co-authored Publications (18)
+10. Yang Y, Wang TY, Fry J, Li Y, Meng Q, **Guo Q**, et al. Tumor-specific lncRNA IGF1R-AS1 trans-regulates chromatin interactions associated with oncogenic MYC signaling. **Nature Communications**. 2026;17:4171.
 
-12. Schäfer RA, **Guo Q**, Yang R. ScanNeo2: a comprehensive workflow for neoantigen detection and immunogenicity prediction from diverse genomic and transcriptomic alterations. **Bioinformatics.** 2023 Nov;39(11):btad659.
+11. Li Y, Wang TY, **Guo Q**, Ren Y, Lu X, Cao Q, Yang R. Genomic language model mitigates chimera artifacts in nanopore direct RNA sequencing. **Nature Communications.** 2026;17:1864.
 
-13. Zhang B, **Guo Q**, Tu X, Gu Z. Identification of *Myxobolus distalisensis* n. sp. (Cnidaria: Myxozoa) infecting yellow catfish *Tachysurus fulvidraco* (Richardson), with a supplement description of *M. voremkhai* (Akhmerov, 1960) Landsberg and Lom, 1991. **Syst Parasitol.** 2023 Oct;100(5):473-485.
+12. Yang Y, Wang TY, Li Q, Lu J, Ren Y, Weiner AB, Fry J, Liu Q, Yum C, Wang R, **Guo Q**, Wan Y, Zhe J, Dong X, Lotan TL, Schaeffer EM, Yang R, Cao Q. Androgen receptor–regulated lncRNA PRCAT71 promotes AR signaling through the interaction with KHSRP in prostate cancer. **Sci Adv.** 2025 Apr;11(15):eadk6989.
 
-14. Xiao B, **Guo Q**, Zhai Y, Gu Z. Transcriptomic insights into the diversity and evolution of Myxozoa (Cnidaria, Endocnidozoa) toxin-like proteins. **Mar Drugs.** 2022 Apr 26;20(5).
+13. Schäfer RA, **Guo Q**, Yang R. ScanNeo2: a comprehensive workflow for neoantigen detection and immunogenicity prediction from diverse genomic and transcriptomic alterations. **Bioinformatics.** 2023 Nov;39(11):btad659.
 
-15. Tahir UB, **Guo Q**, Gu Z. Fins infestation induced by *Myxobolus xiantaoensis* in yellow catfish *Tachysurus fulvidraco* Richardson, 1846: Some pathophysiological and molecular insights. **Microb Pathog.** 2021 Apr;153:104772.
+14. Zhang B, **Guo Q**, Tu X, Gu Z. Identification of *Myxobolus distalisensis* n. sp. (Cnidaria: Myxozoa) infecting yellow catfish *Tachysurus fulvidraco* (Richardson), with a supplement description of *M. voremkhai* (Akhmerov, 1960) Landsberg and Lom, 1991. **Syst Parasitol.** 2023 Oct;100(5):473-485.
 
-16. Wang S, Zhang B, **Guo Q**, Zhai Y, Gu Z. Molecular and light microscopy evidence for the transfer of *Myxobolus honghuensis* from *Carassius auratus gibelio* broodfish to progeny. **J Fish Dis.** 2020 Oct;43(10):1177-1184.
+15. Xiao B, **Guo Q**, Zhai Y, Gu Z. Transcriptomic insights into the diversity and evolution of Myxozoa (Cnidaria, Endocnidozoa) toxin-like proteins. **Mar Drugs.** 2022 Apr 26;20(5).
 
-17. Zhang X, Liu Y, Whipps CM, **Guo Q**, Gu Z. Multiple evolutionary routes of the single polar capsule in *Thelohanellus* species (Myxozoa; Myxobolidae). **Int J Parasitol Parasites Wildl.** 2019 Apr;8:56-62.
+16. Tahir UB, **Guo Q**, Gu Z. Fins infestation induced by *Myxobolus xiantaoensis* in yellow catfish *Tachysurus fulvidraco* Richardson, 1846: Some pathophysiological and molecular insights. **Microb Pathog.** 2021 Apr;153:104772.
 
-18. Tahir UB, **Guo Q**, Zhao D, Liu Y, Gu Z. Description of *Myxobolus xiantaoensis* n. sp. from the fins of yellow catfish in China: a species previously attributed to *Myxobolus physophilus* Reuss, 1906 in Chinese records. **Parasitol Res.** 2019 Apr;118(4):1137-1146.
+17. Wang S, Zhang B, **Guo Q**, Zhai Y, Gu Z. Molecular and light microscopy evidence for the transfer of *Myxobolus honghuensis* from *Carassius auratus gibelio* broodfish to progeny. **J Fish Dis.** 2020 Oct;43(10):1177-1184.
 
-19. Shao J, **Guo Q**, Hu R, Gu Z. Comparative genomic insights into the taxonomy of *Edwardsiella tarda* isolated from different hosts: marine, freshwater and migratory fish. **Aquaculture Research.** 2018 January;49(1):197-204.
+18. Zhang X, Liu Y, Whipps CM, **Guo Q**, Gu Z. Multiple evolutionary routes of the single polar capsule in *Thelohanellus* species (Myxozoa; Myxobolidae). **Int J Parasitol Parasites Wildl.** 2019 Apr;8:56-62.
 
-20. Wang Z, Zhou T, **Guo Q**, Gu Z. Description of a new freshwater ciliate *Epistylis wuhanensis* n. sp. (Ciliophora, Peritrichia) from China, with a focus on phylogenetic relationships within family Epistylididae. **Journal of Eukaryotic Microbiology.** 2017;64(3):394-406.
+19. Tahir UB, **Guo Q**, Zhao D, Liu Y, Gu Z. Description of *Myxobolus xiantaoensis* n. sp. from the fins of yellow catfish in China: a species previously attributed to *Myxobolus physophilus* Reuss, 1906 in Chinese records. **Parasitol Res.** 2019 Apr;118(4):1137-1146.
 
-21. Liu Y, **Guo Q**, Zhai Y, Gu Z. Effects of different preservation methods on morphology of *Myxobolus wulii* spores. **Journal of Huazhong Agricultural University.** 2016;(4):87-92. (In Chinese with English abstract)
+20. Shao J, **Guo Q**, Hu R, Gu Z. Comparative genomic insights into the taxonomy of *Edwardsiella tarda* isolated from different hosts: marine, freshwater and migratory fish. **Aquaculture Research.** 2018 January;49(1):197-204.
 
-22. Zhai Y, Gu Z, **Guo Q**, Wu Z, Wang H, Liu Y. New type of pathogenicity of *Thelohanellus kitauei* Egusa & Nakajima, 1981 infecting the skin of common carp *Cyprinus carpio* L. **Parasitol Int.** 2016 Feb;65(1):78-82.
+21. Wang Z, Zhou T, **Guo Q**, Gu Z. Description of a new freshwater ciliate *Epistylis wuhanensis* n. sp. (Ciliophora, Peritrichia) from China, with a focus on phylogenetic relationships within family Epistylididae. **Journal of Eukaryotic Microbiology.** 2017;64(3):394-406.
 
-23. Zhai Y, Whipps CM, Gu Z, **Guo Q**, Wu Z, Wang H, Liu Y. Intraspecific morphometric variation in myxosporeans. **Folia Parasitol (Praha).** 2016 Apr 1;63.
+22. Liu Y, **Guo Q**, Zhai Y, Gu Z. Effects of different preservation methods on morphology of *Myxobolus wulii* spores. **Journal of Huazhong Agricultural University.** 2016;(4):87-92. (In Chinese with English abstract)
 
-24. Deng Q, **Guo Q**, Zhai Y, Wang Z, Gu Z. First record of *Chilodonella piscicola* (Ciliophora: Chilodonellidae) from two endangered fishes, *Schizothorax o'connori* and *Oxygymnocypris stewartii* in Tibet. **Parasitol Res.** 2015 Apr;114(8):3097-3103.
+23. Zhai Y, Gu Z, **Guo Q**, Wu Z, Wang H, Liu Y. New type of pathogenicity of *Thelohanellus kitauei* Egusa & Nakajima, 1981 infecting the skin of common carp *Cyprinus carpio* L. **Parasitol Int.** 2016 Feb;65(1):78-82.
 
-25. Jia L, Gu Z, Liu Y, **Guo Q**, Li D, Zhai Y. Preparation and characterization of polyclonal antibodies against *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **Journal of Huazhong Agricultural University.** 2015;(6):113-118. (In Chinese with English abstract)
+24. Zhai Y, Whipps CM, Gu Z, **Guo Q**, Wu Z, Wang H, Liu Y. Intraspecific morphometric variation in myxosporeans. **Folia Parasitol (Praha).** 2016 Apr 1;63.
 
-26. Zhang JY, Gu ZM, Kalavati C, Costa Eiras J, Liu Y, **Guo Q**, Molnár K. Synopsis of the species of *Thelohanellus* Kudo, 1933 (Myxozoa: Myxosporea: Bivalvulida). **Syst Parasitol.** 2013 Nov;86(3):235-56.
+25. Deng Q, **Guo Q**, Zhai Y, Wang Z, Gu Z. First record of *Chilodonella piscicola* (Ciliophora: Chilodonellidae) from two endangered fishes, *Schizothorax o'connori* and *Oxygymnocypris stewartii* in Tibet. **Parasitol Res.** 2015 Apr;114(8):3097-3103.
+
+26. Jia L, Gu Z, Liu Y, **Guo Q**, Li D, Zhai Y. Preparation and characterization of polyclonal antibodies against *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **Journal of Huazhong Agricultural University.** 2015;(6):113-118. (In Chinese with English abstract)
+
+27. Zhang JY, Gu ZM, Kalavati C, Costa Eiras J, Liu Y, **Guo Q**, Molnár K. Synopsis of the species of *Thelohanellus* Kudo, 1933 (Myxozoa: Myxosporea: Bivalvulida). **Syst Parasitol.** 2013 Nov;86(3):235-56.
 
 ### Patents (5)
-27. Gu Z, **Guo Q**, Zhai Y, Liu Y. A method to isolate and purify the nematocyst of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent Application No. CN110055181B.** 2022.
-28. Gu Z, **Guo Q**, Zhai Y, Liu Y. A method to isolate and purify the shell valves of *Myxobolus wulii* (Myxosporea: Bivalvulida). **China Patent Application No. ZL CN110004104B.** 2022.
-29. Gu Z, Li D, Liu Y, **Guo Q**. A PCR method for simultaneous detection of multiple myxozoans in allogynogenetic gibel carp *Carassius auratus gibelio*. **China Patent No. ZL201610051386.8.** 2019.
-30. Gu Z, Jia L, Liu Y, Zhai Y, Yuan J, Qin J, Li D, **Guo Q**. Preparation and application of polyclonal antibodies against the shell valves of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent No. CN103755806B.** 2016.
-31. Gu Z, Jia L, Liu Y, Zhai Y, Yuan J, Qin J, Li D, **Guo Q**. Preparation and application of polyclonal antibodies against the polar filaments of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent No. CN103880954B.** 2015.
+28. Gu Z, **Guo Q**, Zhai Y, Liu Y. A method to isolate and purify the nematocyst of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent Application No. CN110055181B.** 2022.
+29. Gu Z, **Guo Q**, Zhai Y, Liu Y. A method to isolate and purify the shell valves of *Myxobolus wulii* (Myxosporea: Bivalvulida). **China Patent Application No. ZL CN110004104B.** 2022.
+30. Gu Z, Li D, Liu Y, **Guo Q**. A PCR method for simultaneous detection of multiple myxozoans in allogynogenetic gibel carp *Carassius auratus gibelio*. **China Patent No. ZL201610051386.8.** 2019.
+31. Gu Z, Jia L, Liu Y, Zhai Y, Yuan J, Qin J, Li D, **Guo Q**. Preparation and application of polyclonal antibodies against the shell valves of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent No. CN103755806B.** 2016.
+32. Gu Z, Jia L, Liu Y, Zhai Y, Yuan J, Qin J, Li D, **Guo Q**. Preparation and application of polyclonal antibodies against the polar filaments of *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **China Patent No. CN103880954B.** 2015.
 
 ---
 
