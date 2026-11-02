@@ -124,39 +124,22 @@ I am especially interested in the intersection of **AI, long-read sequencing, an
 
 ### Co-authored Publications (18)
 10. Yang Y, Wang TY, Fry J, Li Y, Meng Q, **Guo Q**, et al. Tumor-specific lncRNA IGF1R-AS1 trans-regulates chromatin interactions associated with oncogenic MYC signaling. **Nature Communications**. 2026;17:4171.
-
 11. Li Y, Wang TY, **Guo Q**, Ren Y, Lu X, Cao Q, Yang R. Genomic language model mitigates chimera artifacts in nanopore direct RNA sequencing. **Nature Communications.** 2026;17:1864.
-
 12. Yang Y, Wang TY, Li Q, Lu J, Ren Y, Weiner AB, Fry J, Liu Q, Yum C, Wang R, **Guo Q**, Wan Y, Zhe J, Dong X, Lotan TL, Schaeffer EM, Yang R, Cao Q. Androgen receptor–regulated lncRNA PRCAT71 promotes AR signaling through the interaction with KHSRP in prostate cancer. **Sci Adv.** 2025 Apr;11(15):eadk6989.
-
 13. Schäfer RA, **Guo Q**, Yang R. ScanNeo2: a comprehensive workflow for neoantigen detection and immunogenicity prediction from diverse genomic and transcriptomic alterations. **Bioinformatics.** 2023 Nov;39(11):btad659.
-
 14. Zhang B, **Guo Q**, Tu X, Gu Z. Identification of *Myxobolus distalisensis* n. sp. (Cnidaria: Myxozoa) infecting yellow catfish *Tachysurus fulvidraco* (Richardson), with a supplement description of *M. voremkhai* (Akhmerov, 1960) Landsberg and Lom, 1991. **Syst Parasitol.** 2023 Oct;100(5):473-485.
-
 15. Xiao B, **Guo Q**, Zhai Y, Gu Z. Transcriptomic insights into the diversity and evolution of Myxozoa (Cnidaria, Endocnidozoa) toxin-like proteins. **Mar Drugs.** 2022 Apr 26;20(5).
-
 16. Tahir UB, **Guo Q**, Gu Z. Fins infestation induced by *Myxobolus xiantaoensis* in yellow catfish *Tachysurus fulvidraco* Richardson, 1846: Some pathophysiological and molecular insights. **Microb Pathog.** 2021 Apr;153:104772.
-
 17. Wang S, Zhang B, **Guo Q**, Zhai Y, Gu Z. Molecular and light microscopy evidence for the transfer of *Myxobolus honghuensis* from *Carassius auratus gibelio* broodfish to progeny. **J Fish Dis.** 2020 Oct;43(10):1177-1184.
-
 18. Zhang X, Liu Y, Whipps CM, **Guo Q**, Gu Z. Multiple evolutionary routes of the single polar capsule in *Thelohanellus* species (Myxozoa; Myxobolidae). **Int J Parasitol Parasites Wildl.** 2019 Apr;8:56-62.
-
 19. Tahir UB, **Guo Q**, Zhao D, Liu Y, Gu Z. Description of *Myxobolus xiantaoensis* n. sp. from the fins of yellow catfish in China: a species previously attributed to *Myxobolus physophilus* Reuss, 1906 in Chinese records. **Parasitol Res.** 2019 Apr;118(4):1137-1146.
-
 20. Shao J, **Guo Q**, Hu R, Gu Z. Comparative genomic insights into the taxonomy of *Edwardsiella tarda* isolated from different hosts: marine, freshwater and migratory fish. **Aquaculture Research.** 2018 January;49(1):197-204.
-
 21. Wang Z, Zhou T, **Guo Q**, Gu Z. Description of a new freshwater ciliate *Epistylis wuhanensis* n. sp. (Ciliophora, Peritrichia) from China, with a focus on phylogenetic relationships within family Epistylididae. **Journal of Eukaryotic Microbiology.** 2017;64(3):394-406.
-
 22. Liu Y, **Guo Q**, Zhai Y, Gu Z. Effects of different preservation methods on morphology of *Myxobolus wulii* spores. **Journal of Huazhong Agricultural University.** 2016;(4):87-92. (In Chinese with English abstract)
-
 23. Zhai Y, Gu Z, **Guo Q**, Wu Z, Wang H, Liu Y. New type of pathogenicity of *Thelohanellus kitauei* Egusa & Nakajima, 1981 infecting the skin of common carp *Cyprinus carpio* L. **Parasitol Int.** 2016 Feb;65(1):78-82.
-
 24. Zhai Y, Whipps CM, Gu Z, **Guo Q**, Wu Z, Wang H, Liu Y. Intraspecific morphometric variation in myxosporeans. **Folia Parasitol (Praha).** 2016 Apr 1;63.
-
 25. Deng Q, **Guo Q**, Zhai Y, Wang Z, Gu Z. First record of *Chilodonella piscicola* (Ciliophora: Chilodonellidae) from two endangered fishes, *Schizothorax o'connori* and *Oxygymnocypris stewartii* in Tibet. **Parasitol Res.** 2015 Apr;114(8):3097-3103.
-
 26. Jia L, Gu Z, Liu Y, **Guo Q**, Li D, Zhai Y. Preparation and characterization of polyclonal antibodies against *Myxobolus honghuensis* (Myxosporea: Bivalvulida). **Journal of Huazhong Agricultural University.** 2015;(6):113-118. (In Chinese with English abstract)
-
 27. Zhang JY, Gu ZM, Kalavati C, Costa Eiras J, Liu Y, **Guo Q**, Molnár K. Synopsis of the species of *Thelohanellus* Kudo, 1933 (Myxozoa: Myxosporea: Bivalvulida). **Syst Parasitol.** 2013 Nov;86(3):235-56.
 
 ### Patents (5)
