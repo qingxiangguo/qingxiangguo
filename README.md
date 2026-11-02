@@ -87,7 +87,7 @@ I am especially interested in the intersection of **AI, long-read sequencing, an
 
 <!-- Research Metrics -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Publications-26-brightgreen?style=for-the-badge&logo=googlescholar"/>
+  <img src="https://img.shields.io/badge/Publications-27-brightgreen?style=for-the-badge&logo=googlescholar"/>
   <img src="https://img.shields.io/badge/Citations-400%2B-blue?style=for-the-badge&logo=semanticscholar"/>
   <img src="https://img.shields.io/badge/Patents-5-orange?style=for-the-badge&logo=patent"/>
   <img src="https://img.shields.io/badge/First_Author-9-purple?style=for-the-badge&logo=author"/>
